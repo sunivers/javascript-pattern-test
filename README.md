@@ -1,6 +1,6 @@
 # 자바스크립트 패턴과 테스트 
 
-![Cover](assets/cover.jpg)
+![Cover](assets/cover.png)
 
 ## 목차
 
